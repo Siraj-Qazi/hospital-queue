@@ -1,2 +1,2 @@
 # hospital-queue
-Hosptal waiting queue
+Hospital waiting queue
